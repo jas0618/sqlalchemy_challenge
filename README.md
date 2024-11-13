@@ -157,7 +157,7 @@ def stats(start=None, end=None):
     
     session.close()
 
-   * Pleas note when I did try to run the API on the terminal, there was a error on few lines( line 281, line 550 and line 758) 
+   * Pleas note when I did try to run the API on the terminal, there was a error on few lines( line 281, line 550 and line 758)- tried my best to resolve the errors( tried to run the API three times and same errors)
 
   
    
