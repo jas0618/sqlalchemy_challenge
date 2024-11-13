@@ -23,10 +23,15 @@
 
 ## App.py (api) 
 -created the link to the resources- for measurement and station 
+
 -created different api routes 
+
 -precipitation= the latest date, latest date and start date - results from precipitation dictionary 
+
 -the station query, the latest date order by descending - from the start date to late date 
+
 -api start and end date- calculated the function of max, min and avg 
+
 -run the function using the terminal( please note there are some errors- tried my best to fix them) 
   
 
